@@ -10,3 +10,15 @@ D:\C#apps\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
 D:\C#apps\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
 D:\C#apps\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.FormCredits.resources
 D:\C#apps\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.FormGame.resources
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojAssemblyReference.cache
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.FormMainMenu.resources
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.FormGame.resources
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.FormCredits.resources
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+D:\Users\cmascunana\Documents\GitHub\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
